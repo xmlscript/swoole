@@ -1,0 +1,15 @@
+{
+  "name": "xmlscript/swoole",
+  "description": "router",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "require": {
+    "xmlscript/page": "dev-master"
+  },
+  "authors": [
+    {
+      "name": "xmlscript",
+      "email": "xmlscript@gmail.com"
+    }
+  ]
+}
