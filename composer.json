@@ -6,6 +6,9 @@
   "require": {
     "xmlscript/page": "dev-master"
   },
+  "bin": [
+    "bin/swoole.php"
+  ],
   "authors": [
     {
       "name": "xmlscript",
